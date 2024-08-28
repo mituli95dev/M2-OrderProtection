@@ -1,5 +1,5 @@
 <?php
-namespace I95dev\FieldValidator\Plugin;
+namespace Abc\FieldValidator\Plugin;
 
 use Magento\Sales\Api\OrderRepositoryInterface;
 use Magento\Customer\Api\AccountManagementInterface;
